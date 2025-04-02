@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+I'm a software engineer with more than five years of experience. I'm based in Europe. I have worked at small start-ups, scale-ups, and big tech companies.
+Here's my LinkedIn: https://www.linkedin.com/in/shbm/
+
+Currently, I'm working on learning web3 development and mastering solidity and blockchain development. 
+Here are some of the projects I've worked on recently.
+- https://github.com/shbm/eth-blockchain-data-dashboard (this is a dashboard which tracks the latest events in the Ethereum blockchain)
+- https://github.com/shbm/gems (It's a blockchain game in which you can mint NFTs. It is deployed on the sepolia test net)
 <!--
 **shbm/shbm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
